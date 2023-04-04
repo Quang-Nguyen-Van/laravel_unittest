@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>The name is {{ $name }}.</p>
+    <p> Q Test Github Actions.</p>
 </body>
 </html>
